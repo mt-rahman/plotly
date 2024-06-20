@@ -1,0 +1,12 @@
+{
+    "date": "2023-02-09",
+    "primemover_id": "7008",
+    "cycle_count": "11",
+    "nett_cycle_time_avg": "64.23",
+    "travel_loaded_avg": "20.0",
+    "stopped_loaded_avg": "4.1",
+    "dumping_avg": "7.54",
+    "travel_empty_avg": "16.72",
+    "stopped_empty_avg": "3.37",
+    "loading_avg": "12.5"
+}

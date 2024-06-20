@@ -1,0 +1,29 @@
+{
+    "date": "2023-01-03",
+    "primemover_id": "7008",
+    "sub_activity": "travel_empty",
+    "time": [
+        "03:26:21"
+    ],
+    "travel_empty": [
+        "2.5"
+    ],
+    "stopped_empty": [
+        "1.9"
+    ],
+    "loading": [
+        "9.7"
+    ],
+    "travel_loaded": [
+        "77.64"
+    ],
+    "stopped_loaded": [
+        "19.34"
+    ],
+    "dumping": [
+        "10445.89"
+    ],
+    "nett_cycle_time": [
+        "10556.97"
+    ]
+}
