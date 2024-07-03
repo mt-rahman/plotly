@@ -135,7 +135,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Muhammad Taufik Rahman | mtaufikrahman@ymail.com.com
+Muhammad Taufik Rahman | mtaufikrahman@ymail.com
 
 Project Link: [https://github.com/mt-rahman/plotly](https://github.com/mt-rahman/plotly)
 
