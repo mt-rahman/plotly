@@ -8,7 +8,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
-<br />
+<!-- <br /> -->
 <div align="center">
   <!-- <a href="https://github.com/mt-rahman/plotly">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
